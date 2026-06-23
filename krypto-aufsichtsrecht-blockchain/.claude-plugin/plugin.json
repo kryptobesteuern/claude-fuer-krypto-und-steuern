@@ -1,0 +1,21 @@
+{
+  "name": "krypto-aufsichtsrecht-blockchain",
+  "version": "001.0.0",
+  "description": "Angrenzendes Aufsichts- und Blockchainrecht: MiCAR-Token-Klassifizierung, BaFin-Erlaubnispflicht, AML/KYC, Travel Rule, DAO-Rechtsformfragen und Smart-Contract-Haftung.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Markus Begerow"
+  },
+  "homepage": "https://github.com/kryptobesteuern/claude-fuer-krypto-und-steuern",
+  "keywords": [
+    "micar",
+    "kryptowertedienstleistung",
+    "bafin-erlaubnis",
+    "aml-kyc",
+    "travel-rule",
+    "dao-recht",
+    "smart-contract-haftung",
+    "stablecoin-recht",
+    "wallet-verwahrung"
+  ]
+}

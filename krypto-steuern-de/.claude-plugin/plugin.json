@@ -1,0 +1,24 @@
+{
+  "name": "krypto-steuern-de",
+  "version": "001.0.0",
+  "description": "Besteuerung von Kryptowerten in Deutschland: Anschaffung/Veraeusserung nach Paragraf 23 EStG, Mining, Staking, DeFi-Ertraege, Airdrops/Hardforks, NFTs, Bewertungsmethoden, Verlustverrechnung und BMF-Schreiben.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Markus Begerow"
+  },
+  "homepage": "https://github.com/kryptobesteuern/claude-fuer-krypto-und-steuern",
+  "keywords": [
+    "krypto-steuerrecht",
+    "estg-23",
+    "bitcoin-steuer",
+    "ethereum-steuer",
+    "mining-steuer",
+    "staking-steuer",
+    "defi-steuer",
+    "nft-steuer",
+    "airdrop-steuer",
+    "fifo-bewertung",
+    "verlustverrechnung",
+    "bmf-schreiben-krypto"
+  ]
+}
