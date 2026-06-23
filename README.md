@@ -22,8 +22,7 @@ beim strukturierten Pruefen von Krypto-Sachverhalten unterstuetzen:
 | [`krypto-steuern-de`](krypto-steuern-de/README.md) | Ertrag- und umsatzsteuerliche Behandlung von Kryptowerten (Paragraf 23 EStG, Mining, Staking, DeFi, NFTs, Bewertung, Verlustverrechnung) |
 | [`krypto-aufsichtsrecht-blockchain`](krypto-aufsichtsrecht-blockchain/README.md) | Angrenzendes Aufsichts- und Blockchainrecht (MiCAR, BaFin-Erlaubnis, AML/KYC, Travel Rule, DAO, Smart-Contract-Haftung) |
 
-Dieses Projekt ist als MVP angelegt und wird iterativ um weitere Plugins
-und Skills erweitert (siehe `CHANGELOG.md`).
+Dieses Projekt ist als erste experimentelle Sammlung angelegt und wird iterativ um weitere Plugins und Skills erweitert (siehe `CHANGELOG.md`).
 
 ## Schnelleinstieg
 

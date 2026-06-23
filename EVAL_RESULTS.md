@@ -2,7 +2,7 @@
 
 ## Status
 
-Dieses Repository befindet sich im MVP-Stadium (Version 001.0.0). Es liegt
+Dieses Repository befindet sich im ersten Stadium (Version 001.0.0). Es liegt
 noch keine systematische, mehrfach wiederholte Evaluation der Skill-
 Outputs vor.
 

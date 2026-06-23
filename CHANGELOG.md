@@ -1,6 +1,6 @@
 # CHANGELOG.md
 
-## v001.0.0 — Erstveroeffentlichung (MVP)
+## v001.0.0 — Erstveroeffentlichung
 
 - Repository-Grundgeruest angelegt: `CLAUDE.md`, `AGENTS.md`,
   `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `CODEX.md`,
