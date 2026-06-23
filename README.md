@@ -1,6 +1,4 @@
-# claude-fuer-krypto-und-steuern
-
-**Version 001.0.0** — Autor/Owner: Markus Begerow — Lizenz: Apache-2.0 OR MIT
+# Claude Skils für Krypto & Steuern
 
 > **Wichtiger Hinweis:** Dieses Repository ist eine experimentelle
 > Sammlung von Claude-Code-Skills zu Krypto-Steuerrecht und angrenzendem
@@ -87,7 +85,7 @@ Mehrkosten fuer Sie):
 <img src="assets/images/krypto_steuern_leitfaden.webp" alt="Krypto-Steuern Leitfaden" width="200" />
 </a>
 <br />
-<a href="https://amzn.to/3TwalFp" target="_blank">Krypto-Steuern Leitfaden</a>
+<a href="https://amzn.to/3TwalFp" target="_blank">Leitfaden zu <br />Krypto und Steuern</a>
 </td>
 <td align="center" width="50%">
 <a href="https://amzn.to/3MYvmbI" target="_blank">
