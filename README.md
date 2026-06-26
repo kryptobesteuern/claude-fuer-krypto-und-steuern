@@ -1,4 +1,4 @@
-# Claude Skils für Krypto & Steuern
+# Claude Skills für Krypto & Steuern
 
 > **Wichtiger Hinweis:** Dieses Repository ist eine experimentelle
 > Sammlung von Claude-Code-Skills zu Krypto-Steuerrecht und angrenzendem
