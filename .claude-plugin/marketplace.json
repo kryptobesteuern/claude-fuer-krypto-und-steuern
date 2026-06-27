@@ -3,26 +3,33 @@
   "name": "krypto-steuern-skills",
   "description": "Krypto-Steuern-Skills - experimentelle Claude-Code-Plugins fuer Krypto-Steuerrecht und angrenzendes Aufsichts-/Blockchainrecht in Deutschland. Keine Steuerberatung, keine Rechtsberatung.",
   "owner": {
-    "name": "Markus Begerow"
+    "name": "Markus Begerow",
+    "email": "kontakt@krypto-besteuern.de"
   },
   "plugins": [
     {
       "name": "krypto-steuern-de",
+      "displayName": "Krypto Steuerrecht Deutschland",
       "source": "./krypto-steuern-de",
       "description": "Besteuerung von Kryptowerten in Deutschland: Anschaffung/Veraeusserung nach Paragraph 23 EStG, Mining, Staking, DeFi, Airdrops, NFTs, Bewertungsmethoden, Verlustverrechnung und BMF-Schreiben.",
-      "version": "001.0.0",
+      "category": "finance",
       "author": {
         "name": "Markus Begerow"
-      }
+      },
+      "homepage": "https://github.com/kryptobesteuern/claude-fuer-krypto-und-steuern",
+      "repository": "https://github.com/kryptobesteuern/claude-fuer-krypto-und-steuern"
     },
     {
       "name": "krypto-aufsichtsrecht-blockchain",
+      "displayName": "Krypto Aufsichtsrecht & Blockchain",
       "source": "./krypto-aufsichtsrecht-blockchain",
       "description": "Angrenzendes Aufsichts- und Blockchainrecht: MiCAR-Token-Klassifizierung, BaFin-Erlaubnispflicht, AML/KYC, Travel Rule, DAO-Rechtsformfragen und Smart-Contract-Haftung.",
-      "version": "001.0.0",
+      "category": "finance",
       "author": {
         "name": "Markus Begerow"
-      }
+      },
+      "homepage": "https://github.com/kryptobesteuern/claude-fuer-krypto-und-steuern",
+      "repository": "https://github.com/kryptobesteuern/claude-fuer-krypto-und-steuern"
     }
   ]
 }

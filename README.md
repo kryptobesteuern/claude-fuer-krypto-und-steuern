@@ -22,7 +22,32 @@ beim strukturierten Pruefen von Krypto-Sachverhalten unterstuetzen:
 
 Dieses Projekt ist als erste experimentelle Sammlung angelegt und wird iterativ um weitere Plugins und Skills erweitert (siehe `CHANGELOG.md`).
 
-## Schnelleinstieg
+## Marketplace-Installation
+
+```
+/plugin marketplace add kryptobesteuern/claude-fuer-krypto-und-steuern
+```
+
+Danach einzelne Plugins aktivieren:
+
+```
+/plugin install krypto-steuern-de@krypto-steuern-skills
+/plugin install krypto-aufsichtsrecht-blockchain@krypto-steuern-skills
+```
+
+Nach der Installation einen Skill direkt aufrufen, z. B.:
+
+```
+/krypto-steuern-de:btc-eth-einkunftsart-23-estg
+```
+
+Updates einspielen:
+
+```
+/plugin marketplace update krypto-steuern-skills
+```
+
+## Schnelleinstieg (ohne Marketplace)
 
 1. `QUICKSTART.md` lesen (2 Minuten).
 2. Repository in Claude Code als Projektverzeichnis oeffnen.

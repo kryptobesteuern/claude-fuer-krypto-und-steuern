@@ -7,6 +7,8 @@
     "name": "Markus Begerow"
   },
   "homepage": "https://github.com/kryptobesteuern/claude-fuer-krypto-und-steuern",
+  "repository": "https://github.com/kryptobesteuern/claude-fuer-krypto-und-steuern",
+  "category": "finance",
   "keywords": [
     "krypto-steuerrecht",
     "estg-23",
