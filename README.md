@@ -1,5 +1,9 @@
 # Claude Skills für Krypto & Steuern
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/40af723c-29bc-4209-83a5-46ec4cd8ddd5" />
+</p>
+
 > **Wichtiger Hinweis:** Dieses Repository ist eine experimentelle
 > Sammlung von Claude-Code-Skills zu Krypto-Steuerrecht und angrenzendem
 > Aufsichts-/Blockchainrecht in Deutschland. Es ersetzt **keine**
